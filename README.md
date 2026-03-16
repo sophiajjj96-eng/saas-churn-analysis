@@ -14,6 +14,12 @@ This project demonstrates how structured product and subscription data can be tr
 
 ---
 
+## Cohort Retention Analysis
+
+![Cohort Retention Heatmap](dashboard/cohort_retention_heatmap.png)
+
+---
+
 ## Project Snapshot
 
 Dataset: SaaS product subscription dataset  
