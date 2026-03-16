@@ -98,3 +98,13 @@ This project demonstrates how product analytics can be used to understand:
 - retention behavior
 
 The analysis combines SQL-based data preparation with Tableau visualization to produce an interpretable SaaS analytics dashboard.
+
+## Business Questions
+
+This analysis explores several key SaaS business questions:
+
+1. How is customer acquisition trending over time?
+2. Which subscription plans generate the most revenue?
+3. What are the primary drivers of customer churn?
+4. How does feature usage relate to churn behavior?
+5. How does customer retention evolve across cohorts?
