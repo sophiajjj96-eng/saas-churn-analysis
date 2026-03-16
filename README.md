@@ -179,3 +179,12 @@ saas-churn-analysis
 This project demonstrates how product analytics can be used to transform raw SaaS operational data into business insights.
 
 The analysis combines SQL data transformation with Tableau visualization to produce an interpretable SaaS analytics dashboard.
+
+---
+
+# Author
+
+Sophia Choi  
+Business Technology Management  
+
+Data Analytics • SQL • Tableau • Business Operations Strategy
